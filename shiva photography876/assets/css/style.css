@@ -246,7 +246,9 @@ div.scroll-container iframe:hover {
     border-radius: 4px;
     font-family: inherit;
 }
-
+video controls{
+    border-radius:16px;
+}
 .form-group textarea {
     height: 120px;
     resize: none;
@@ -288,3 +290,4 @@ footer {
     }
 
 }
+
