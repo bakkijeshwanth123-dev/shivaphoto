@@ -194,7 +194,7 @@ div.scroll-container::-webkit-scrollbar-thumb {
     border-radius: 10px;
 }
 
-div.scroll-container iframe {
+div.scroll-container iframe video controls{
     flex: 0 0 auto;
     width: clamp(300px, 60vw, 560px);
     aspect-ratio: 16/9;
@@ -246,9 +246,7 @@ div.scroll-container iframe:hover {
     border-radius: 4px;
     font-family: inherit;
 }
-video{
-    border-radius:16px;
-}
+
 .form-group textarea {
     height: 120px;
     resize: none;
@@ -290,5 +288,6 @@ footer {
     }
 
 }
+
 
 
