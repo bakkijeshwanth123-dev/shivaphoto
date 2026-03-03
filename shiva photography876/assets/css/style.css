@@ -191,7 +191,7 @@ div.scroll-container::-webkit-scrollbar {
 
 div.scroll-container::-webkit-scrollbar-thumb {
     background: var(--primary);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 div.scroll-container iframe {
@@ -288,6 +288,7 @@ footer {
     }
 
 }
+
 
 
 
