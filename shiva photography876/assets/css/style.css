@@ -199,7 +199,7 @@ div.scroll-container iframe video controls{
     width: clamp(300px, 60vw, 560px);
     aspect-ratio: 16/9;
     height: 300;
-    border-radius: 19px;
+    border-radius: 18px;
     border: 1px solid #333;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
     transition: transform 0.3s ease;
