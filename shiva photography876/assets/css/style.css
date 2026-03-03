@@ -196,7 +196,7 @@ div.scroll-container::-webkit-scrollbar-thumb {
 
 div.scroll-container iframe video controls{
     flex: 0 0 auto;
-    width: clamp(300px, 600vw, 560px);
+    width: clamp(300px, 60vw, 560px);
     aspect-ratio: 16/9;
     height: 300px;
     border-radius: 18px;
@@ -288,6 +288,7 @@ footer {
     }
 
 }
+
 
 
 
