@@ -191,7 +191,7 @@ div.scroll-container::-webkit-scrollbar {
 
 div.scroll-container::-webkit-scrollbar-thumb {
     background: var(--primary);
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 div.scroll-container iframe video controls{
@@ -200,7 +200,7 @@ div.scroll-container iframe video controls{
     aspect-ratio: 16/9;
     height: 300px;
     border-radius: 18px;
-    border: 15px solid #333;
+    border: 1px solid #333;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
     transition: transform 0.3s ease;
 }
@@ -288,6 +288,7 @@ footer {
     }
 
 }
+
 
 
 
